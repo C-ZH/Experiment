@@ -5,7 +5,7 @@
 	}
 body{
 	background-color:#f4f4f4;
-	margin:0px;		/*header footer ¶K»ô*/
+	margin:0px;		/*header footer è²¼é½Š*/
 	}
 /*Header START*/
 header{
@@ -16,7 +16,7 @@ header #title_icon{
 	//height:80px;
 	margin: 24px 100px;
 }
-/*¤£¥Înav¡A¦]¬°nav¦ü¥G¥u¯à¦³¤@­Ó*/
+/*ä¸ç”¨navï¼Œå› ç‚ºnavä¼¼ä¹åªèƒ½æœ‰ä¸€å€‹*/
 .nav{
 	width:100%;
 	background-image:linear-gradient(to bottom, #ffffff, #fafafa, #eaeaea);
@@ -75,7 +75,7 @@ header #title_icon{
 	background-image:linear-gradient(to top, #ffffff, #fafafa, #eaeaea);
 	}
 /*Header END*/
-/*¥D­n¤º®e*/
+/*ä¸»è¦å…§å®¹*/
 .content{
 	margin-left:60px;
 	margin-right:60px;
@@ -119,6 +119,12 @@ header #title_icon{
 .content #timebox{
 	width:100%;
 	font-size:5em;
+	text-align:center;
+	padding-top:60px;
+}
+.content #timebox10{
+	width:100%;
+	font-size:3em;
 	text-align:center;
 	padding-top:60px;
 }
