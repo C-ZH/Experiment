@@ -122,11 +122,8 @@ header #title_icon{
 	text-align:center;
 	padding-top:60px;
 }
-.content #timebox10{
-	width:100%;
-	font-size:3em;
-	text-align:center;
-	padding-top:60px;
+.content .ten{
+	font-size:3em !important;
 }
 /*Footer START*/
 footer{
